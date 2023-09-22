@@ -1,0 +1,1 @@
+## A repository created to initiate a project for practicing the fundamental concepts of React Native
